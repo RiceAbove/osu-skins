@@ -20,3 +20,6 @@ I usually switch between skins every so often on osu! So this repo will contain 
 ### Milkteaism Lunar (18+ cause fail screen)
 - https://youtu.be/I93OW4_ocZE 
 - https://drive.google.com/file/d/1qPxzu1CEjBnWz6F3SLqVwbPsywOyQ8jO/view
+
+### Texas v1.0
+- https://skins.osuck.net/index.php?newsid=2008
