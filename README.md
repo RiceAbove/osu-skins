@@ -7,7 +7,7 @@ I usually switch between skins every so often on osu! So this repo will contain 
 ### 《CK》 Bacon boi 1.0 skin
 - https://skins.osuck.net/index.php?newsid=1648
 
-### - # WhiteCat (1.0) # -
+### - # WhiteCat (1.0) # (Current)
 - https://skins.osuck.net/index.php?newsid=1107
 
 ### 《CK》WhiteCat 2.0
